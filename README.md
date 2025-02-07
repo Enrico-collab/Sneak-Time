@@ -1,7 +1,6 @@
 # Projeto SneakTime
 
-Este projeto consiste em um site desenvolvido para demonstrar minhas habilidades na criação de um site focado na venda de tênis. O objetivo do site é criar uma experiência de compra simples, 
-eficiente e visualmente agradável, com foco na funcionalidade e usabilidade.
+Este projeto foi desenvolvido para demonstrar minhas habilidades na criação de um site focado na venda de tênis. O objetivo é oferecer uma experiência de compra intuitiva, eficiente e visualmente atrativa, priorizando a funcionalidade, usabilidade e a experiência do usuário. O site foi projetado com uma navegação simples e clara, buscando facilitar o processo de compra e proporcionar aos usuários uma jornada agradável desde a escolha do produto até o fechamento da compra.
 
 ## Tecnologias Utilizadas:
 
@@ -35,8 +34,7 @@ ________________________________________________________________________________
 
 # SneakTime Project
 
-This project is a website developed to showcase my skills in creating a site focused on selling sneakers. The goal of the site is to create a simple, efficient, and visually 
-appealing shopping experience, with a focus on functionality and usability.
+This project was developed to showcase my skills in creating a website focused on selling sneakers. The goal is to provide an intuitive, efficient, and visually appealing shopping experience, prioritizing functionality, usability, and user experience. The website was designed with simple and clear navigation, aiming to streamline the purchasing process and offer users a pleasant journey from product selection to checkout.
 
 ## Technologies Used:
 
