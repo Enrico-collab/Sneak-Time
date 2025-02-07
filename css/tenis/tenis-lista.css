@@ -1,0 +1,63 @@
+.tenis-lista {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.tenis-lista h2 {
+  margin-bottom: 40px;
+}
+
+.tenis-lista ul {
+  display: flex;
+  gap: 40px;
+  padding: 0 20px 20px 20px;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-x: auto;
+}
+
+.tenis-lista li {
+  min-width: 280px;
+}
+
+.tenis-lista a {
+  display: block;
+}
+
+.tenis-lista img {
+  margin-bottom: 16px;
+  border-radius: 4px;
+}
+
+.tenis-lista h3 {
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.tenis-lista h3:before {
+  content: "";
+  display: inline-block;
+  height: 8px;
+  width: 12px;
+  margin-right: 8px;
+  background-color: var(--cor-p1);
+  transition: width 0.2s;
+}
+
+.tenis-lista a:hover h3::before {
+  width: 24px;
+}
+
+.tenis-lista li span {
+  padding-left: 20px;
+}
+
+@media (max-width: 800) {
+  .tenis-lista {
+    padding-bottom: 60px;
+  }
+  .tenis-lista ul {
+    gap: 20px;
+  }
+}
