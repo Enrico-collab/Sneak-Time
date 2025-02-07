@@ -27,7 +27,7 @@ como a lista de tênis, depoimentos, contato e termos e condições.<br><br>
 ## Acesse o projeto através do link:
 https://enrico-collab.github.io/Sneak-Time/
 
-## Autor
+# Autor
 Enrico Clemente Amoroso
 
 __________________________________________________________________________________________________________
